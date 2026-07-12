@@ -1,0 +1,6 @@
+{
+  "name": "Adalia Lacerda - Psicóloga",
+  "description": "Psicoterapia online para adultos fundamentada na Psicanálise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
